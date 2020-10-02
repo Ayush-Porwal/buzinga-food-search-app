@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food",
-    "slug": "food",
+    "name": " Buzinga Food Search App",
+    "slug": "buzinga-food-search-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This app uses Zomato's API to search cuisines etc",
+    "githubUrl": "https://github.com/Ayush-Porwal/buzinga-food-search-app"
   }
 }
